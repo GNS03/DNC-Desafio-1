@@ -19,8 +19,8 @@ e de um bom layout para ser atrativo.
 
 ### Detalhamento das tabelas:
 
-| **Coluna**             | **Descrição**                                   | **Base**       |
-|-------------------------|-----------------------------------------------|----------------|
+| **Coluna**             | **Descrição**                                 | **Base**       |
+|------------------------|-----------------------------------------------|----------------|
 | `idcompra`             | Número de identificação da compra             | Base Compra    |
 | `idcanalvenda`         | Canal de venda                                | Base Compra    |
 | `bandeira`             | Qual foi a bandeira que a compra foi realizada| Base Compra    |
