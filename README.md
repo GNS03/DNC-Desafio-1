@@ -19,17 +19,22 @@ e de um bom layout para ser atrativo.
 
 ### Detalhamento das tabelas:
 
-  Coluna Descrição Base
-  idcompra: numero de identificação da compra base compra
-  idcanalvenda: Canal de venda base compra
-  bandeira: Qual foi a bandeira que a compra foi realizada base compra
-  Data: Data da compra base compra
-  Preço: Preço da compra base compra
-  Preço_com_frete: Preço da compra + frete base compra
-  Nome_Departamento: Departamento do produto base compra
-  estado: Estado da compra base compra
-  cliente_Log: Identificação do cliente base compra
-  cliente_Log: Identificação do cliente Base cliente
-  Idade Idade: do cliente Base cliente
-  uf_nascimento: Cidade de nascimento Base cliente
-  Renda renda do cliente Base cliente
+| **Coluna**             | **Descrição**                                   | **Base**       |
+|-------------------------|-----------------------------------------------|----------------|
+| `idcompra`             | Número de identificação da compra             | Base Compra    |
+| `idcanalvenda`         | Canal de venda                                | Base Compra    |
+| `bandeira`             | Qual foi a bandeira que a compra foi realizada| Base Compra    |
+| `Data`                 | Data da compra                                | Base Compra    |
+| `Preço`                | Preço da compra                               | Base Compra    |
+| `Preço_com_frete`      | Preço da compra + frete                       | Base Compra    |
+| `Nome_Departamento`    | Departamento do produto                       | Base Compra    |
+| `estado`               | Estado da compra                              | Base Compra    |
+| `cliente_Log`          | Identificação do cliente                      | Base Compra    |
+| `cliente_Log`          | Identificação do cliente                      | Base Cliente   |
+| `Idade`                | Idade do cliente                              | Base Cliente   |
+| `uf_nascimento`        | Cidade de nascimento                          | Base Cliente   |
+| `Renda`                | Renda do cliente                              | Base Cliente   |
+
+
+![](https://github.com/GNS03/DNC-Desafio-1/blob/main/Screenshot%202024-11-29%20003136.png)
+![](https://github.com/GNS03/DNC-Desafio-1/blob/main/Screenshot%202024-11-29%20003232.png)
